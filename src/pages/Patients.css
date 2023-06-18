@@ -1,0 +1,916 @@
+.frame-child,
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.group-child {
+  height: 100%;
+  width: 20.38%;
+  right: 79.62%;
+  bottom: 0;
+  background-color: #312e81;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+.frame-child {
+  border-radius: 20px;
+  background-color: #f1f5f9;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  width: 1277px;
+  height: 960px;
+}
+.instance-child,
+.rectangle-parent,
+.rectangle-wrapper {
+  position: absolute;
+  height: 100%;
+  width: 82.89%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 17.11%;
+}
+.instance-child,
+.rectangle-parent {
+  width: 100%;
+  left: 0;
+}  
+.rectangle-parent:hover {
+  position: absolute;
+  left: -17px;
+  width: 212px;
+  height: 50px;
+  border-radius: 5px;
+  background-color: #9795cd;
+  border: 0.5px solid #fff;
+  box-sizing: border-box;
+}
+
+.instance-child {
+  height: 5.42%;
+  width: 14.88%;
+  top: 33.85%;
+  right: 83.94%;
+  bottom: 60.73%;
+  left: 1.18%;
+  border-radius: 8px;
+  background-color: #9795cd;
+  border: 0.5px solid #fff;
+  box-sizing: border-box;
+}
+.instance-item {
+  position: absolute;
+  height: 2.5%;
+  width: 1.69%;
+  top: 35.31%;
+  right: 95.52%;
+  bottom: 62.19%;
+  left: 2.78%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dashboard {
+  position: absolute;
+  top: 28%;
+  left: 41%;
+  line-height: 153%;
+}
+.group-item {
+  position: absolute;
+  height: 67.89%;
+  width: 14.43%;
+  top: 15.41%;
+  right: 85.57%;
+  bottom: 3.7%;
+  left: 15px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-wrapper {
+  position: absolute;
+  height: 11.67%;
+  width: 86.36%;
+  top: 0;
+  right: 13.64%;
+  bottom: 88.33%;
+  left: 0;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  font-size: 16px;
+}
+.patient {
+  margin: -9px 0 0 25px;
+  position: absolute;
+  height: 100%;
+  width: 59.2%;
+  top: 25px;
+  left: 40.8%;
+  line-height: 150%;
+  display: inline-block;
+}
+.group-inner {
+  position: absolute;
+  height: 88.89%;
+  width: 16.32%;
+  top: 8.41%;
+  right: 83.68%;
+  bottom: 3.7%;
+  left: 29px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.patient-parent {
+  margin: 0 0 0 -24px;
+  position: absolute;
+  height: 74px;
+  width: 134px;
+  top: 30.41%;
+  right: 16.88%;
+  bottom: 55.14%;
+  left: 3.95%;
+  border-radius: 5px;
+}
+.patient-parent:hover {
+  background-color: #9795cd;
+  border: 0.5px solid #fff;
+  box-sizing: border-box;
+  width: 213px;
+  height: 50px;
+  top: 61px;
+}
+.appointment {
+  position: absolute;
+  top: 11%;
+  left: 28%;
+  line-height: 150%;
+}
+.vector-icon {
+  position: absolute;
+  height: 67.89%;
+  width: 14.43%;
+  top: 15.41%;
+  right: 85.57%;
+  bottom: 3.7%;
+  left: 15px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.appointment-parent {
+  position: absolute;
+  height: 12.44%;
+  width: 98.7%;
+  top: 60.83%;
+  right: 0;
+  bottom: 26.73%;
+  left: 1.3%;
+}
+.appointment-parent:hover {
+  position: absolute;
+  height: 45px;
+  width: 213px;
+  top: 55.83%;
+  right: 0;
+  bottom: 26.73%;
+  left: -11.7%;
+  /* border-radius: 6px; */
+  border-radius: 8px;
+  background-color: #9795cd;
+  border: 0.5px solid #fff;
+  box-sizing: border-box;
+}
+.billing {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 150%;
+}
+
+.billing-wrapper {
+  position: absolute;
+  height: 12.44%;
+  width: 31.82%;
+  top: 87.56%;
+  right: 33.12%;
+  bottom: 0;
+  left: 35.06%;
+}
+
+.group-container,
+.logo {
+  position: absolute;
+  left: 2.5%;
+}
+.group-container {
+  height: 22.6%;
+  width: 10.71%;
+  top: 15.52%;
+  right: 86.79%;
+  bottom: 61.88%;
+}
+.logo {
+  top: 4.9%;
+  font-size: 30px;
+  line-height: 100%;
+  font-family: "Helvetica Rounded";
+}
+.instance-inner {
+  position: absolute;
+  height: 0.1%;
+  width: 14.39%;
+  top: 41.72%;
+  right: 84.32%;
+  bottom: 58.18%;
+  left: 1.29%;
+  border-top: 1px solid rgba(147, 147, 147, 0.5);
+  box-sizing: border-box;
+}
+.support-wrapper,
+.vector-icon1 {
+  position: absolute;
+  height: 100%;
+  width: 56.14%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 43.86%;
+}
+.vector-icon1 {
+  height: 88.89%;
+  width: 20.95%;
+  right: 79.05%;
+  bottom: 11.11%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-div {
+  position: absolute;
+  height: 2.81%;
+  width: 7.93%;
+  top: 86.46%;
+  right: 89.29%;
+  bottom: 10.73%;
+  left: 2.78%;
+}
+.group-icon,
+.setting-wrapper {
+  position: absolute;
+  height: 100%;
+  width: 53.27%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 46.73%;
+}
+.group-icon {
+  height: 94.44%;
+  width: 22.16%;
+  top: 4.63%;
+  right: 78.54%;
+  bottom: 0.93%;
+  left: -0.7%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-parent1 {
+  position: absolute;
+  height: 2.81%;
+  width: 7.44%;
+  top: 92.08%;
+  right: 89.78%;
+  bottom: 5.1%;
+  left: 2.78%;
+}
+.group-child3,
+.group-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.group-parent {
+  width: 1438px;
+  height: 960px;
+  color: #fff;
+}
+.group-child3 {
+  border-radius: 12px;
+  background-color: #cbe3ff;
+  width: 266px;
+  height: 50px;
+}
+.february-2021 {
+  position: absolute;
+  top: 6px;
+  left: 64px;
+  line-height: 150%;
+}
+.group-child4,
+.group-child5 {
+  position: absolute;
+  top: 1px;
+  left: 210px;
+  width: 38.93px;
+  height: 37.38px;
+}
+.group-child5 {
+  top: 0;
+  left: 0;
+}
+.february-2021-parent {
+  position: absolute;
+  top: 6px;
+  left: 9px;
+  width: 248.93px;
+  height: 38.38px;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 130px;
+  left: 1147px;
+  width: 266px;
+  height: 50px;
+  text-align: center;
+}
+.billing-overview {
+  position: absolute;
+  top: 134px;
+  left: 280px;
+  font-size: 30px;
+  line-height: 100%;
+}
+.group-child6,
+.patients-child {
+  position: absolute;
+  background-color: #fff;
+}
+.patients-child {
+  top: 360px;
+  left: 281px;
+  border-radius: 15px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1), 0 1px 2px rgba(0, 0, 0, 0.06);
+  width: 733px;
+  height: 287px;
+  display: none;
+}
+.group-child6 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 28px;
+}
+.search-patients {
+  position: absolute;
+  top: 23.91%;
+  left: 7.26%;
+  line-height: 150%;
+}
+.vector-icon4 {
+  position: absolute;
+  height: 34.78%;
+  width: 2.52%;
+  top: 32.61%;
+  right: 94.67%;
+  bottom: 32.61%;
+  left: 2.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent2 {
+  position: absolute;
+  height: 4.79%;
+  width: 46.88%;
+  top: 5%;
+  right: 33.68%;
+  bottom: 90.21%;
+  left: 19.44%;
+  font-size: 16px;
+  color: #525252;
+}
+.children {
+  position: relative;
+  line-height: 150%;
+}
+.component-2,
+.component-3 {
+  position: absolute;
+  height: 4.17%;
+  width: 9.31%;
+  top: 5.31%;
+  right: 5.76%;
+  bottom: 90.52%;
+  left: 84.93%;
+  border-radius: 38px;
+  background-color: #312e81;
+  display: flex;
+  flex-direction: row;
+  padding: 0 20px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+}
+.component-2 {
+  width: 16.39%;
+  right: 16.18%;
+  left: 67.43%;
+}
+.patients-item {
+  position: absolute;
+  height: 4.06%;
+  width: 2.71%;
+  top: 5.31%;
+  right: 1.94%;
+  bottom: 90.63%;
+  left: 95.35%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-child7,
+.sourav-singh {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.group-child7 {
+  height: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: 10px;
+  background-color: #cbe3ff;
+}
+.sourav-singh {
+  line-height: 150%;
+  display: inline-block;
+}
+.sourav-singh-wrapper {
+  position: absolute;
+  height: 22.31%;
+  width: 32.06%;
+  top: 11.57%;
+  right: 32.17%;
+  bottom: 66.12%;
+  left: 35.77%;
+}
+.bill-no,
+.div {
+  position: absolute;
+  top: 7.41%;
+  left: 0;
+  line-height: 150%;
+}
+.div {
+  top: 0;
+  left: 43.48%;
+  font-size: 18px;
+  color: #000;
+}
+.group-wrapper2,
+.male {
+  position: absolute;
+  left: 35.77%;
+}
+.group-wrapper2 {
+  height: 22.31%;
+  width: 45.35%;
+  top: 60.33%;
+  right: 18.87%;
+  bottom: 17.36%;
+  font-size: 16px;
+  color: #525252;
+}
+.male {
+  top: 35.54%;
+  line-height: 150%;
+}
+.rectangle-icon {
+  position: absolute;
+  height: 83.47%;
+  width: 28.45%;
+  top: 6.61%;
+  right: 68.45%;
+  bottom: 9.92%;
+  left: 3.1%;
+  border-radius: 9px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.group-parent6,
+.group-parent7,
+.group-parent8,
+.group-parent9 {
+  position: absolute;
+  top: 195px;
+  left: 280px;
+  width: 355px;
+  height: 121px;
+}
+.group-parent7,
+.group-parent8,
+.group-parent9 {
+  top: 463px;
+}
+.group-parent8,
+.group-parent9 {
+  top: 597px;
+}
+.group-parent9 {
+  top: 729px;
+}
+.group-child11,
+.patients-inner {
+  position: absolute;
+  top: 193px;
+  left: 649px;
+  border-radius: 24px;
+  background-color: #fff;
+  width: 766px;
+  height: 718px;
+}
+.group-child11 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 10px;
+}
+.sourav-singh-wrapper2 {
+  position: absolute;
+  height: 22.31%;
+  width: 28.96%;
+  top: 10.74%;
+  right: 37.96%;
+  bottom: 66.94%;
+  left: 33.08%;
+}
+.male4 {
+  position: absolute;
+  top: 34.71%;
+  left: 33.08%;
+  line-height: 150%;
+}
+.instance-child6 {
+  position: absolute;
+  height: 85.95%;
+  width: 26.46%;
+  top: 6.61%;
+  right: 70.74%;
+  bottom: 7.44%;
+  left: 2.8%;
+  border-radius: 9px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component-1 {
+  position: absolute;
+  height: 26.45%;
+  width: 55.22%;
+  top: 63.64%;
+  right: 11.7%;
+  bottom: 9.92%;
+  left: 33.08%;
+  border-radius: 38px;
+  border: 1px solid #312e81;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  padding: 0 20px;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  color: #312e81;
+}
+.group-parent10,
+.patients-child1 {
+  position: absolute;
+  top: 329px;
+  left: 280px;
+  width: 393px;
+  height: 121px;
+}
+.patients-child1 {
+  top: 228px;
+  left: 680px;
+  border-radius: 24px;
+  background-color: #fff;
+  box-shadow: 0-6px 25px rgba(0, 0, 0, 0.04),
+    0 20px 25px -5px rgba(0, 0, 0, 0.03), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  border: 1px solid #312e81;
+  box-sizing: border-box;
+  width: 697px;
+  height: 654px;
+}
+.patients-child2 {
+  position: absolute;
+  top: 404px;
+  left: 681px;
+  background-color: #f3f3f3;
+  width: 695px;
+  height: 89px;
+}
+.patient-name {
+  position: relative;
+  line-height: 150%;
+  opacity: 0.5;
+}
+.agegender-parent,
+.patient-name-parent {
+  position: absolute;
+  top: 331px;
+  left: 700px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+  font-size: 16px;
+}
+.agegender-parent {
+  left: 830px;
+}
+.bill-no4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 150%;
+  opacity: 0.5;
+}
+.bill-no-wrapper {
+  position: relative;
+  width: 47px;
+  height: 24px;
+}
+.frame-div,
+.receipt-no-parent {
+  position: absolute;
+  top: 331px;
+  left: 949px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+  font-size: 16px;
+}
+.receipt-no-parent {
+  top: 330px;
+  left: 1243px;
+}
+.date-time,
+.pm {
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.date-time {
+  width: 78px;
+  height: 21px;
+  opacity: 0.5;
+}
+.pm {
+  text-align: right;
+  width: 158px;
+  height: 29px;
+}
+.date-time-parent {
+  position: absolute;
+  top: 330px;
+  left: 1053px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 8px;
+  font-size: 16px;
+}
+.div6,
+.div7,
+.service-name,
+.srno {
+  position: absolute;
+  top: 413px;
+  left: 788px;
+  line-height: 150%;
+}
+.div6,
+.div7,
+.srno {
+  left: 710px;
+}
+.div6,
+.div7 {
+  top: 457px;
+  left: 727px;
+}
+.div7 {
+  top: 494px;
+}
+.consultation,
+.div8,
+.div9,
+.price,
+.xray {
+  position: absolute;
+  top: 457px;
+  left: 788px;
+  line-height: 150%;
+}
+.div8,
+.div9,
+.price,
+.xray {
+  top: 494px;
+}
+.div8,
+.div9,
+.price {
+  top: 0;
+  left: 0;
+}
+.div8,
+.div9 {
+  top: 46px;
+}
+.div9 {
+  top: 83px;
+}
+.price-parent {
+  position: absolute;
+  top: 411px;
+  left: 1137px;
+  width: 45px;
+  height: 110px;
+}
+.div10,
+.div11 {
+  position: absolute;
+  top: 46px;
+  left: 2px;
+  line-height: 150%;
+}
+.div11 {
+  top: 83px;
+}
+.quantity-parent {
+  position: absolute;
+  top: 411px;
+  left: 1198px;
+  width: 74px;
+  height: 110px;
+}
+.div12,
+.div13 {
+  position: absolute;
+  top: 45px;
+  left: 4px;
+  line-height: 150%;
+}
+.div13 {
+  top: 82px;
+}
+.amount-parent {
+  position: absolute;
+  top: 411px;
+  left: 1288px;
+  width: 69px;
+  height: 109px;
+}
+.billing-details {
+  position: absolute;
+  top: 260px;
+  left: 720px;
+  font-size: 22px;
+  line-height: 120%;
+}
+.component-11,
+.patients-child3 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.component-11 {
+  top: 258px;
+  left: 1250px;
+  border-radius: 38px;
+  background-color: #312e81;
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 20px;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+}
+.patients-child3 {
+  top: 446.75px;
+  left: 679.75px;
+  border-top: 0.5px solid #312e81;
+  width: 696.5px;
+  height: 0.5px;
+}
+.patients-child4 {
+  position: absolute;
+  top: 718px;
+  left: 681px;
+  border-radius: 0 0 25px 25px;
+  background-color: #f3f3f3;
+  width: 695px;
+  height: 163px;
+}
+.mobile-number,
+.tax {
+  position: absolute;
+  top: 732px;
+  left: 714px;
+  line-height: 120%;
+}
+.tax {
+  top: 757px;
+  display: flex;
+  align-items: center;
+  width: 29px;
+  height: 20px;
+}
+.discount,
+.div14,
+.div15,
+.div16,
+.div17,
+.total {
+  position: absolute;
+  top: 787px;
+  left: 714px;
+  line-height: 120%;
+}
+.div14,
+.div15,
+.div16,
+.div17,
+.total {
+  top: 825px;
+}
+.div14,
+.div15,
+.div16,
+.div17 {
+  top: 732px;
+  left: 1232px;
+}
+.div15,
+.div16,
+.div17 {
+  top: 760px;
+  left: 1302px;
+}
+.div16,
+.div17 {
+  top: 787px;
+  left: 1312px;
+}
+.div17 {
+  top: 825px;
+  left: 1200px;
+  display: flex;
+  align-items: center;
+  width: 193px;
+}
+.patients-child5 {
+  position: absolute;
+  top: 813.75px;
+  left: 679.75px;
+  border-top: 0.5px solid #312e81;
+  box-sizing: border-box;
+  width: 696.5px;
+  height: 0.5px;
+}
+.patients {
+  position: relative;
+  border-radius: 18px;
+  background-color: #fff;
+  width: 100%;
+  height: 960px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 18px;
+  color: #000;
+  font-family: Helvetica;
+}
